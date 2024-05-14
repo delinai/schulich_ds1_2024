@@ -1,0 +1,101 @@
+id,age,salary,city,experience,department
+1,56.0,21864.85,Nw York,33,Operations
+2,69.0,29498.27,Chicago,5,Finance
+3,46.0,59544.58,Chicago,19,Operations
+4,32.0,,San Francisco,4,IT
+5,60.0,57140.64,San Francisco,35,HR
+6,25.0,69554.92,Los Angeles,17,Finance
+7,38.0,,,28,HR
+8,56.0,58955.67,New York,30,HR
+9,36.0,36554.97,,29,Finance
+10,40.0,48320.18,San Francisco,6,Operations
+11,28.0,72034.12,Nw York,35,HR
+12,28.0,33141.52,Los Angeles,37,IT
+13,41.0,64250.08,,24,HR
+14,53.0,75897.75,San Francisco,29,Finance
+15,,56868.28,Los Angeles,31,Finance
+16,41.0,24735.69,,35,Finance
+17,20.0,54902.68,New York,33,Operations
+18,39.0,48783.22,New York,21,HR
+19,19.0,57016.92,San Francisco,32,Operations
+20,,61041.84,Chicago,23,Operations
+21,61.0,38304.47,Nw York,33,Finance
+22,,37341.55,New York,3,Finance
+23,55.0,47741.99,New York,18,Operations
+24,19.0,35516.63,Chicago,25,HR
+25,38.0,52257.34,Chicago,31,IT
+26,50.0,48298.68,San Francisco,3,Operations
+27,,89502.92,San Francisco,24,HR
+28,39.0,34623.64,Chicago,32,Finance
+29,61.0,38269.28,San Francisco,22,Finance
+30,42.0,56359.15,San Francisco,23,HR
+31,66.0,63090.58,Nw York,2,IT
+32,,84308.39,San Francisco,27,Finance
+33,59.0,74343.81,New York,2,Finance
+34,45.0,,San Francisco,26,Finance
+35,33.0,54395.89,,17,HR
+36,32.0,63449.46,Chicago,33,Operations
+37,64.0,255192.19222222222,New York,9,Finance
+38,68.0,45257.51,San Francisco,39,Operations
+39,61.0,27763.64,San Francisco,29,IT
+40,69.0,46567.29,Los Angeles,26,Finance
+41,20.0,64439.62,Nw York,35,Finance
+42,54.0,,San Francisco,25,IT
+43,68.0,,,24,Finance
+44,,44603.33,Chicago,13,Operations
+45,38.0,60861.25,San Francisco,7,HR
+46,,46163.53,Los Angeles,36,Operations
+47,56.0,62748.82,New York,20,HR
+48,,30330.14,Chicago,1,HR
+49,21.0,36945.43,New York,8,Operations
+50,42.0,42400.35,New York,16,Operations
+51,,,Nw York,14,Operations
+52,67.0,94154.95,San Francisco,12,Operations
+53,26.0,33556.01,Los Angeles,23,IT
+54,43.0,63723.26,Los Angeles,15,Finance
+55,19.0,40009.09,Los Angeles,28,HR
+56,37.0,42293.19,Los Angeles,34,Operations
+57,45.0,54519.84,Chicago,2,Operations
+58,64.0,28122.25,San Francisco,32,Operations
+59,24.0,40058.93,New York,23,IT
+60,61.0,47802.91,New York,22,Operations
+61,25.0,37309.74,Nw York,25,Operations
+62,64.0,37662.66,New York,22,Operations
+63,52.0,66300.91,San Francisco,22,Finance
+64,31.0,65074.8,New York,6,IT
+65,34.0,255192.19222222222,Los Angeles,15,Operations
+66,53.0,48737.52,New York,37,HR
+67,67.0,68555.24,San Francisco,33,HR
+68,57.0,28602.82,San Francisco,8,HR
+69,21.0,,San Francisco,5,IT
+70,19.0,79618.57,San Francisco,39,IT
+71,23.0,79475.52,Nw York,4,HR
+72,59.0,20901.33,Chicago,6,Operations
+73,21.0,38560.6,Chicago,32,IT
+74,46.0,52529.89,New York,30,HR
+75,35.0,30171.85,San Francisco,35,HR
+76,43.0,39976.3,New York,16,Operations
+77,61.0,47940.63,San Francisco,13,Finance
+78,51.0,71019.82,San Francisco,30,IT
+79,27.0,49318.96,Chicago,19,Operations
+80,53.0,53254.05,Chicago,17,HR
+81,,57686.36,Nw York,19,HR
+82,48.0,,Chicago,28,Operations
+83,65.0,50421.49,Los Angeles,26,IT
+84,32.0,32043.69,Los Angeles,37,Finance
+85,25.0,61845.09,Los Angeles,26,Finance
+86,31.0,255192.19222222222,Los Angeles,23,HR
+87,40.0,33548.72,,9,IT
+88,57.0,39765.48,New York,12,Finance
+89,38.0,63312.67,Chicago,1,IT
+90,33.0,59082.25,,1,IT
+91,62.0,39195.53,Nw York,34,HR
+92,35.0,45950.99,Chicago,32,Finance
+93,64.0,255192.19222222222,Chicago,25,Operations
+94,41.0,59255.06,,1,HR
+95,43.0,68734.11,New York,16,Finance
+96,42.0,50984.74,Los Angeles,39,Finance
+97,62.0,255192.19222222222,New York,5,Finance
+98,58.0,63099.75,San Francisco,22,Finance
+99,46.0,53084.75,Chicago,29,Finance
+100,32.0,28347.75,San Francisco,3,IT
